@@ -2,7 +2,7 @@
   "name": "cdd",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Karthik564125.github.io/cdd",
+"homepage": "https://Karthik564125.github.io/cdd",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
